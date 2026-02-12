@@ -1,24 +1,24 @@
-## Hi, I'm Maryan 👋
+## Hi, I'm Maryan
 
 Data Science Student @ UC Berkeley | Python, ML, Data Engineering
 
 ---
 
-## 🔧 Tech Stack
-- Python | Java | SQL
-- Pandas | NumPy | PyTorch
-- Git | GitHub
+## Tech Stack
+- Python | R | C++ | SQL | Java | LaTeX
+- pandas | NumPy | matplotlib |  Seaborn | plotly | scikit-learn | SciPy | PyTorch
+- Jupyter Notebook | Git | Gihub | VS Code | Visual Studio | Google Colab | IntelliJ IDEA | Anaconda
 
 ---
 
-## 🚀 Highlighted Projects
+## Course Projects
 - [CRISPR Gene Insertion Algorithm](https://github.com/lemaryan/crispr-links) – Recursive algorithm simulating CRISPR using nested linked lists
 - [Mutual Fund App](https://github.com/lemaryan/mutual-fund-app) – Java CLI app managing customer funds with BSTs and HashTables
 
 ---
 
-## 📫 Contact
-- Email: maryan@example.com
+## Contact
+- Email: maryanle@berkeley.edu
 - LinkedIn: [linkedin.com/in/maryan](https://linkedin.com/in/maryan)
 
 <!--
