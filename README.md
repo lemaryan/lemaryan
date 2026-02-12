@@ -13,7 +13,7 @@ Data Science Student @ UC Berkeley | Exploring epidemiology, health equity, and 
 
 ## Course Projects
 - [CRISPR Gene Insertion Algorithm](https://github.com/lemaryan/crispr-links) – Recursive algorithm simulating CRISPR using nested linked lists
-- [Mutual Fund App](https://github.com/lemaryan/mutual-fund-app) – Java CLI app managing customer funds with BSTs and HashTables
+- [Maps Project](https://github.com/lemaryan/maps) – Python ML pipeline to analyze restaurant data
 
 ---
 
