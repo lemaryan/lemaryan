@@ -1,6 +1,6 @@
 ## Hi, I'm Maryan!
 
-Data Science Student focusing on human and population health @ UC Berkeley | Python, Machine Learning, & Data Engineering | Exploring epidemiology, health equity, and data-driven research
+Data Science Student @ UC Berkeley | Python, Machine Learning, & Data Engineering | Exploring epidemiology, health equity, and data-driven research
 
 ---
 
