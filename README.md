@@ -1,13 +1,13 @@
-## Hi, I'm Maryan
+## Hi, I'm Maryan!
 
-Data Science Student @ UC Berkeley | Python, ML, Data Engineering
+Data Science Student focusing on human and population health @ UC Berkeley | Python, Machine Learning, & Data Engineering | Exploring epidemiology, health equity, and data-driven research
 
 ---
 
 ## Tech Stack
 - Python | R | C++ | SQL | Java | LaTeX
-- pandas | NumPy | matplotlib |  Seaborn | plotly | scikit-learn | SciPy | PyTorch
-- Jupyter Notebook | Git | Gihub | VS Code | Visual Studio | Google Colab | IntelliJ IDEA | Anaconda
+- pandas | NumPy | Matplotlib | Seaborn | Plotly | scikit-learn | SciPy | PyTorch
+- Jupyter Notebook | Git | GiHub | VS Code | Visual Studio | Google Colab | IntelliJ IDEA | Anaconda
 
 ---
 
