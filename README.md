@@ -1,9 +1,5 @@
 ## Hi, I'm Maryan!
 
-Data Science Student @ UC Berkeley
-
----
-
 ## Tech Stack
 - Python | R | C++ | SQL | Java | LaTeX
 - pandas | NumPy | Matplotlib | Seaborn | Plotly | scikit-learn | SciPy | PyTorch
