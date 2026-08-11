@@ -1,6 +1,6 @@
 ## Hi, I'm Maryan!
 
-Data Science Student @ UC Berkeley | Exploring epidemiology, health equity, and data-driven research
+Data Science Student @ UC Berkeley
 
 ---
 
@@ -8,12 +8,6 @@ Data Science Student @ UC Berkeley | Exploring epidemiology, health equity, and 
 - Python | R | C++ | SQL | Java | LaTeX
 - pandas | NumPy | Matplotlib | Seaborn | Plotly | scikit-learn | SciPy | PyTorch
 - Jupyter Notebook | Git | GiHub | VS Code | Visual Studio | Google Colab | IntelliJ IDEA | Anaconda
-
----
-
-## Course Projects
-- [CRISPR Gene Insertion Algorithm](https://github.com/lemaryan/crispr-links) – Recursive algorithm simulating CRISPR using nested linked lists
-- [Maps Project](https://github.com/lemaryan/maps) – Python ML pipeline to analyze restaurant data
 
 ---
 
