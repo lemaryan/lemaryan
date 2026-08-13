@@ -9,7 +9,6 @@
 
 ## Contact
 - Email: maryanle@berkeley.edu
-- LinkedIn: [linkedin.com/in/maryan](https://linkedin.com/in/maryan)
 
 <!--
 **lemaryan/lemaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
