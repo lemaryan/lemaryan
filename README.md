@@ -1,9 +1,9 @@
 ## Hi, I'm Maryan!
 
 ## Tech Stack
-- Python | R | C++ | SQL | Java | LaTeX
-- pandas | NumPy | Matplotlib | Seaborn | Plotly | scikit-learn | SciPy | PyTorch
-- Jupyter Notebook | Git | GiHub | VS Code | Visual Studio | Google Colab | IntelliJ IDEA | Anaconda
+- Python, R, C++, SQL, Java, LaTeX
+- pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, SciPy, PyTorch
+- Jupyter Notebook, Git, GiHub, VS Code, Visual Studio, Google Colab, IntelliJ IDEA, Anaconda
 
 ---
 
